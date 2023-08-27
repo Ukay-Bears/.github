@@ -21,7 +21,7 @@ Remember to check out our [CONTRIBUTING.md](link-to-your-contributing-file) for 
 ## 👩‍💻 Useful resources
 
 <!-- - **Documentation**: [Link to your documentation](#) -->
-- **Community Chat**: [[Ukay Discord](https://discord.gg/ukay)
+- **Community Chat**: [Ukay Discord](https://discord.gg/ukay)
 <!-- - **Issue Tracker**: If you find any issues, please file them [here](#). -->
 
 ## 🍿 Fun facts
