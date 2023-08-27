@@ -16,7 +16,7 @@ We absolutely ❤️ contributions from the community! Here's how you can help:
 4. **Push** your changes back to your fork on GitHub.
 5. Submit a **pull request** so we can review your changes. 
 
-Remember to check out our [CONTRIBUTING.md](link-to-your-contributing-file) for detailed contribution guidelines.
+Remember to check out our [Feature Request](.github/ISSUE_TEMPLATE/feature_request.md) for a basic feature request template.
 
 ## 👩‍💻 Useful resources
 
